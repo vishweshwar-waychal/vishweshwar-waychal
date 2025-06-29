@@ -1,6 +1,6 @@
 # Hi there, I'm Vishweshwar! 👋🏻
 
-I'm a Computer Science undergraduating with a passion for building useful and practical software. I enjoy learning new technologies and creating projects that solve real-world problems.
+I'm a Computer Science undergraduating student with a passion for building useful and practical software. I enjoy learning new technologies and creating projects that solve real-world problems.
 
 ---
 

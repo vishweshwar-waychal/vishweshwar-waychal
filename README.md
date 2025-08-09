@@ -37,7 +37,7 @@ I'm a Computer Science undergraduating student with a passion for building usefu
 ## My Apps
 
 ### MsgApp – Simple & Seamless Chatting  
-[APK Download Link](https://your-apk-link.com)
+[APK Download Link](https://github.com/vishweshwar-waychal/MsgApp/blob/main/app-release.apk)
 
 <img src="https://github.com/vishweshwar-waychal/MsgApp/blob/main/MsgApp%20Screen%20commercial.png" width="100%">
 MsgApp is a chat application built using Flutter and Dart. It includes a splash screen, login & OTP verification, and a simple chat interface. Designed for smooth performance and minimal design, it offers a clean user experience for everyday messaging.

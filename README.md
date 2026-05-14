@@ -44,7 +44,7 @@ MsgApp is a chat application built using Flutter and Dart. It includes a splash 
 
 ### Taskify - UI/UX Design Concept
 
-![Taskify Banner](./assets/taskify-banner.png)
+![Taskify Banner](taskify-banner.png)
 
 Taskify is a modern task management application UI designed in Figma focused on productivity, simplicity, and clean user experience. The project showcases a seamless user journey from onboarding to task organization with a minimal and visually balanced interface.
 

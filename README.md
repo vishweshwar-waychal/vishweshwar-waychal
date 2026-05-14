@@ -34,13 +34,19 @@ I'm a Computer Science undergraduating student with a passion for building usefu
 
 ---
 
-## My Apps
+## My Projects
 
 ### MsgApp – Simple & Seamless Chatting  
 [APK Download Link](https://github.com/vishweshwar-waychal/MsgApp/blob/main/app-release.apk)
 
 <img src="https://github.com/vishweshwar-waychal/MsgApp/blob/main/MsgApp%20Screen%20commercial.png" width="100%">
 MsgApp is a chat application built using Flutter and Dart. It includes a splash screen, login & OTP verification, and a simple chat interface. Designed for smooth performance and minimal design, it offers a clean user experience for everyday messaging.
+
+### Taskify - UI/UX Design Concept
+
+![Taskify Banner](./assets/taskify-banner.png)
+
+Taskify is a modern task management application UI designed in Figma focused on productivity, simplicity, and clean user experience. The project showcases a seamless user journey from onboarding to task organization with a minimal and visually balanced interface.
 
 ---
 
